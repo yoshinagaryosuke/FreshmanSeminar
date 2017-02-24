@@ -2,3 +2,5 @@
 
 VRの個人開発してます。UnityでRiftとViveで動くもの作ってます。CV1、Vive、GearVR、PSVRは持ってます。
 加えてARとMRが好きです。MRは最高です。次はHoloLensを買う予定です。ぜひ劇場版SAO観てください。
+
+PS.情報基盤センターで技術支援員してます。
