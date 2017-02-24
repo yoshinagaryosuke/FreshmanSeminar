@@ -1,4 +1,4 @@
 野嶋研　東将大　（K科）
 
-VRの個人開発してます。CV1、Vive、GearVR、PSVRなど所持してます。
-加えてARとMRが好きです。次はHoloLensを買う予定です。
+VRの個人開発してます。UnityでRiftとViveで動くもの作ってます。CV1、Vive、GearVR、PSVRは持ってます。
+加えてARとMRが好きです。MRは最高です。次はHoloLensを買う予定です。ぜひ劇場版SAO観てください。
